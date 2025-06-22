@@ -1,0 +1,84 @@
+/* src/pages/BonusProgram/BonusProgram.css */
+body {
+  font-family: Montserrat, sans-serif;
+  color: #333;
+}
+
+.content-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.main-heading {
+  margin-top: 100px;
+  color: rgba(0, 0, 0, 0.30);
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 150px;
+  font-weight: 700;
+  line-height: 40px;
+  margin-bottom: 50px;
+}
+
+.description {
+  margin-bottom: 40px;
+  color: #000;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.section-title {
+  font-size: 36px;
+  font-weight: 600;
+  color: #000;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.bonus-info-section,
+.bonus-rules-section,
+.bonus-usage-section,
+.bonus-contact-section {
+  margin-bottom: 40px;
+}
+
+.info-text {
+  font-size: 16px;
+  color: #333;
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.rules-list,
+.usage-list {
+  list-style-position: inside;
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+  padding-left: 0;
+}
+
+.rules-list li,
+.usage-list li {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+.usage-list {
+  list-style-type: decimal;
+}
+
+.contact-text {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+}

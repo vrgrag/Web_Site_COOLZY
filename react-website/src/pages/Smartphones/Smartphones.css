@@ -1,0 +1,42 @@
+/* Smartphones.css */
+.smartphones-page {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 40px;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  padding: 0;
+}
+
+@media (max-width: 1200px) {
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .smartphones-page {
+    grid-template-columns: 1fr;
+    padding: 24px 16px;
+  }
+
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.product-link {
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.3s ease;
+}
+
+.product-link:hover {
+  transform: translateY(-5px);
+}

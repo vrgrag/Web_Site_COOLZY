@@ -1,0 +1,83 @@
+/* src/pages/QuestionsAnswers/QuestionsAnswers.css */
+body {
+  font-family: Montserrat, sans-serif;
+  color: #333;
+}
+
+.content-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;
+}
+.main-heading {
+  margin-top: 100px;
+  color: rgba(0, 0, 0, 0.30);
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 150px;
+  font-weight: 700;
+  line-height: 1.1; /* ✅ либо 165px */
+  margin-bottom: 50px;
+}
+
+
+.description {
+  margin-bottom: 40px;
+  color: #000;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.section-title {
+  font-size: 36px;
+  font-weight: 600;
+  color: #000;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.faq-section {
+  margin-bottom: 40px;
+}
+
+.faq-item {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  text-align: left;
+}
+
+.faq-question {
+  font-size: 24px;
+  font-weight: 500;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.faq-answer {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+}
+
+.faq-answer a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.faq-answer a:hover {
+  text-decoration: underline;
+}
+
+.contact-section {
+  margin-bottom: 40px;
+}
+
+.contact-text {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+}
