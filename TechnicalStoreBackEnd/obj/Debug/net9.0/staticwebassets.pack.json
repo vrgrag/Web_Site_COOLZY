@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TechnicalStoreBackEnd.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TechnicalStoreBackEnd.q7iibgvyq2.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\contracts\\Order_2044_Contract.pdf",
+      "PackagePath": "staticwebassets\\contracts\\Order_2044_Contract.pdf"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\contracts\\Order_2046_Contract.pdf",
+      "PackagePath": "staticwebassets\\contracts\\Order_2046_Contract.pdf"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\contracts\\Order_2048_Contract.pdf",
+      "PackagePath": "staticwebassets\\contracts\\Order_2048_Contract.pdf"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\contracts\\Order_2055_Contract.pdf",
+      "PackagePath": "staticwebassets\\contracts\\Order_2055_Contract.pdf"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\contracts\\Order_2066_Contract.pdf",
+      "PackagePath": "staticwebassets\\contracts\\Order_2066_Contract.pdf"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\540c8b3f-9de6-44a5-895a-914ecbb2ddc0_iPhone 16 Pro.jpeg",
+      "PackagePath": "staticwebassets\\img\\tovar\\540c8b3f-9de6-44a5-895a-914ecbb2ddc0_iPhone 16 Pro.jpeg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\a90j.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\a90j.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\braviaxr.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\braviaxr.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\c835.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\c835.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\charge5.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\charge5.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\echodot5.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\echodot5.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\findx5.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\findx5.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\firehd10.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\firehd10.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\flip6.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\flip6.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\g2oled.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\g2oled.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\galaxys23.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\galaxys23.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\galaxytabs8.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\galaxytabs8.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\homepodmini.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\homepodmini.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\iPhone 16 Pro.jpeg",
+      "PackagePath": "staticwebassets\\img\\tovar\\iPhone 16 Pro.jpeg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\inspiron14.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\inspiron14.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\ipadair5.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\ipadair5.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\ipadmini6.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\ipadmini6.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\ipadpro11.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\ipadpro11.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\iphone13.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\iphone13.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\iphone13pro.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\iphone13pro.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\iphone14.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\iphone14.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\iphone14_2.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\iphone14_2.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\legion5.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\legion5.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\macbookairm2.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\macbookairm2.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\matepad11.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\matepad11.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\motogpower.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\motogpower.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\neoqled.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\neoqled.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\nestaudio.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\nestaudio.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\nord3.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\nord3.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\oled55c2.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\oled55c2.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\oneplus11.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\oneplus11.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\onesl.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\onesl.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\partybox110.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\partybox110.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\pavilion15.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\pavilion15.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\pixel7.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\pixel7.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\qledq80b.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\qledq80b.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\qn85b.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\qn85b.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\r635.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\r635.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\redminote12.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\redminote12.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\roam.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\roam.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\rogzephyrus.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\rogzephyrus.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\soundbar300.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\soundbar300.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\soundlink.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\soundlink.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\spectrex360.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\spectrex360.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\surfacego3.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\surfacego3.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\surfacelaptop5.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\surfacelaptop5.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\taba8.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\taba8.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\tabp11pro.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\tabp11pro.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\thinkpadx1.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\thinkpadx1.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\u8h.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\u8h.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\xperia1iv.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\xperia1iv.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\xps13.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\xps13.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\yogatab13.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\yogatab13.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\zenbook14.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\zenbook14.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\img\\tovar\\zenfone9.jpg",
+      "PackagePath": "staticwebassets\\img\\tovar\\zenfone9.jpg"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "H:\\Website\\Website_Technical_Store\\TechnicalStoreBackEnd\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TechnicalStoreBackEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TechnicalStoreBackEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TechnicalStoreBackEnd.props",
+      "PackagePath": "build\\TechnicalStoreBackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TechnicalStoreBackEnd.props",
+      "PackagePath": "buildMultiTargeting\\TechnicalStoreBackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TechnicalStoreBackEnd.props",
+      "PackagePath": "buildTransitive\\TechnicalStoreBackEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
